@@ -33,7 +33,10 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe life is not as difficult as most people think. If you can pick one particular thing a skill and show up for it every single day, you will get really good at it  and that one thing you pick will fix most of your other problems in life.
+This is how i see it, If you have no skill, then you have no income. If you have no income, then you have no money. And when you have no money, everything else suffers, your relationship, your health, your Career even your peace of mind. People usually think that the  answer is to do more things, learn more stuff, chase more options. But the truth is, when you spread yourself thin, you end up average at everything and great at nothing.
+Stay focused on one thing long enough to actually get good at it. Stop looking at what other people are learning and winning at. Just go deep. Because when you become really good at something, people will come to you. They will pay you. And once money is no longer the problem, you stop making decisions out of fear. You start thinking clearly, investing in yourself, and building something real.
+Most people never find this out because they quit focus before it pays off.
 
 ---
 
@@ -55,11 +58,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+The limit you believe in is the only one that actually exists - There is no Limit to what you can achieve 
 
 ### Evidence from my life
 
-Add your answer here...
+There have been things I was completely convinced I couldn't do. Then someone who knew me would ask me to do that exact thing for them, and I'd do it without even thinking. Every single time, the only thing that was actually stopping me was me. Someone else's belief in me did what my own belief couldn't.
 
 ---
 
@@ -67,11 +70,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Without your health, every goal you have is just noise
 
 ### Evidence from my life
 
-Add your answer here...
+I never took my health seriously because I rarely fell sick. Then one day I did  and I forgot everything else existed. No work, no goals, no plans. Just lying down, drips and injections, trying to get through the day. That one experience taught me something no motivation speech ever could you can have every ambition in the world, but if your body is down, none of it moves.
 
 ---
 
@@ -79,11 +82,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+A bad experience can make you afraid of every next one
 
 ### Evidence from my life
 
-Add your answer here...
+I once invested all my savings into a crypto project believing it would do well. It didn't, I lost everything. Since then, every new project I see, I immediately write it off as a failure waiting to happen. I've watched projects I didn't invest in do really well. The fear of losing again didn't protect me, it just kept me on the sidelines.
 
 ---
 
@@ -135,13 +138,51 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+From Mechanical Engineering to DevOps: How I Found My Path
+
+Nobody told Stephen Chinedu that the path to where he was going would look nothing like what he planned. Not his lecturers. Not his family. Not the oil and gas industry that seemed like the obvious next step after graduating with a mechanical engineering degree. Nobody told him — because nobody knew. He had to find it himself, the hard way, through dead ends, lost money, and the kind of quiet persistence that doesn't look impressive until suddenly it does.
+
+This is that story.
+
+Stephen grew up in Ebonyi State, Nigeria. He studied mechanical engineering, graduated, completed his NYSC, and did what most engineering graduates in Nigeria do — he prepared himself for oil and gas. He didn't do it halfway either. He earned his HSE 1, 2 & 3 certifications. He got his survival at sea certificate. He was ready. He sent out applications. He waited. The industry moved slowly, the competition was stiff, and the doors that opened for some people stayed shut for others. Stephen kept waiting and kept preparing — but the opportunity didn't come the way he expected.
+
+While waiting, something else was happening in Nigeria. Cryptocurrency was everywhere. Everyone was talking about it, investing in it, making money from it or so it seemed. Stephen got in. He put in what he had — his actual savings — into a project he genuinely believed in. The project launched. It didn't go the way anyone hoped. He lost everything he put in and walked away with nothing.
+
+Most people would have walked away from crypto entirely and never looked back. Stephen did something different. He got curious. He wanted to understand what he had actually invested in not just as a user, but at a technical level. That curiosity led him to blockchain technology, then to Solidity, then to the realization that Solidity assumed knowledge he didn't yet have. So he went back to the beginning HTML, CSS, JavaScript and something unexpected happened along the way.
+
+He fell in love with building things.
+
+But building things raised a question that changed everything. Where does what I build actually live? Where is user data stored? Who manages the servers that keep everything running? Those questions had answers — and those answers had a name. DevOps.
+
+Stephen started teaching himself. He watched videos, followed roadmaps, read documentation late into the night in Port Harcourt where he now lived. But there was no mentor to ask when he got stuck. No community learning alongside him. No real sense that what he was studying would actually translate into something he could use in the real world. He had already taught himself graphics design, social media management, and video editing the same way alone, without a clear path. He knew how to push through discomfort. But DevOps felt different. Bigger. More technical. And learning it in isolation, with no feedback, no structure, and no proof that it was working — he stopped more than once. Closed the laptop. Stepped away.
+
+Then he found the DevOps Micro Internship with Agentic AI, Cohort 3, by Pravin Mishra. And for the first time, everything had a structure.
+
+Over 15 weeks, Stephen didn't just study he shipped. Real pipelines. Real cloud deployments on AWS and Azure. Infrastructure built from scratch with Terraform. Workflows automated with Ansible. Containers managed with Docker and Kubernetes. Every week had an assignment. Every assignment had a mentor reviewing it. For someone who had spent years learning without any feedback loop, this was the missing piece. He finally saw himself actually using what he was learning and that changed how he showed up every single day.
+
+By the time he completed the program, his GitHub told the story better than any CV could.
+
+Within his first year after the internship, Stephen landed a remote contract supporting cloud infrastructure for an international company. He earned his AWS Solutions Architect certification, followed by his Azure Administrator credentials. He wasn't collecting paper he was building proof.
+
+By year two, he was mentoring others. He published a technical blog that became a reliable resource for DevOps beginners across Nigeria. He led a growing tech community in Port Harcourt, helped over 50 people take their first serious steps in tech, and watched several of them land their first roles. His mother back in Ebonyi State watched. His siblings watched. His closest friend watched. And they were proud not just of what he had achieved, but of how long he had quietly kept going before anyone could see it.
+
+By year three, Stephen Chinedu had taken his skills international. He launched his own DevOps consulting agency, led a team of engineers, worked with startups across Africa and Europe, and hired Nigerian talent into every project he could. He owned property. He made decisions from a place of clarity, not pressure. The version of him that once lost all his savings and wondered what came next had been replaced by someone who had built the answer himself.
+
+What made the difference was never luck. It was one specific thing the ability to sit with something complicated and refuse to move until it made sense. No matter how deep the concept, no matter how long it took, Stephen didn't let go until he understood it. And then he showed up the next day and did it again. He wasn't watching what everyone else was winning at. He wasn't racing anyone. He stayed in his lane, trusted the process, and let consistency do what motivation alone never could.
+
+He always believed he would win. He just didn't know yet what winning would look like.
+
+Now he does.
+
+*P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) (https://discord.pravinmishra.com/).*
+
+---
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://www.linkedin.com/pulse/from-mechanical-engineering-devops-how-i-found-my-chinedu-okam-e3h0e
 
 ---
 
@@ -173,7 +214,15 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+You're right, let me strip it down even further — no story, just the raw feeling:
+
+---
+
+**Yes**
+
+**What emotion did you feel?**
+
+Shame. Not the kind that shows on your face or makes you speak up the kind that stays quiet and follows you. I passed, but the pass never felt clean. There was always this small uncomfortable feeling sitting underneath the result, reminding me that I know what actually happened. No fear of being caught. No stress about consequences. Just a steady, low level shame that a result I didn't fully earn was attached to my name. That feeling never fully went away. And honestly, I think it was supposed to stay to make sure I never got comfortable with shortcuts again.
 
 ---
 
@@ -199,16 +248,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Deep Work — Cal Newport
+2. Atomic Habits — James Clear
+3. How to Win Friends and Influence People — Dale Carnegie
+4. The Lean Startup — Eric Ries
+5. Never Split the Difference — Chris Voss
+6. The Six Pillars of Self-Esteem — Nathaniel Branden
+7. Surrounded by Idiots — Thomas Erikson
+8. So Good They Can't Ignore You — Cal Newport
+9. Think and Grow Rich — Napoleon Hill
+10. Mindset: The New Psychology of Success — Carol S. Dweck
 
 ---
 
@@ -237,16 +286,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Daily DevOps study hours
+* GitHub commits per week
+* Assignments submitted and reviewed 
+* Blog posts and LinkedIn articles published 
+* Daily consistency streak 
+* Daily exercise/workout
+* Sleep hours per night
+* Spending tracker
+* Daily reading
+* Daily digital product business
 
 ---
 
@@ -272,7 +321,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +339,15 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon–Sat: 4:30am → Wake up
+Mon–Sat: 4:30am–5:00am → Morning prayer and daily devotion
+Mon–Sat: 5:00am–7:00am → Morning deep work session (DevOps study)
+Daily: 7:00am–7:30am → Exercise
+Daily: Afternoon → 1 hour reading 
+Daily: 1 hour → Digital product business
+Mon–Fri: 9:00pm–11:00pm → Night deep work session (DMI assignments)
+Sat: DMI session + weekly review
+Sun: Rest, recharge and plan the week ahead
 
 ---
 
@@ -298,11 +355,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Weekday mornings 5:00am–7:00am and weekday nights 9:00pm–11:00pm
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 sessions per week - 5 weekdays plus Saturday DMI session
 
 ---
 
@@ -316,7 +373,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Phone goes face down during every deep work session
+No social media before completing morning study session
+Social media limited to 30 minutes daily — afternoon only
+Football and movies allowed only after daily study goals are met
+TikTok, Instagram and Twitter apps moved off home screen to reduce impulse scrolling
 
 ---
 
@@ -324,28 +385,27 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I discovered that I have the zeal and the drive to make real impact and change my current situation, but at the same time I have been lazy about actually doing it because it feels like too much work. I also discovered that when I calm down and think things through, I always find the right solution  but anytime I rush a decision, it always turns out to be the wrong one. Most importantly, I realised that I can genuinely do this DevOps thing. I just need to show up every day with the right mindset and I will succeed.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I get distracted easily a simple phone notification is enough to pull me completely off track. I also have a pattern of starting things with a lot of energy and motivation and quitting halfway. I have done it too many times. I don't want this to be another one of those. I also noticed I tend to keep to myself instead of reaching out to people, connecting with my cohort, asking questions and contributing. I don't want to be that person who acts like they know everything and connects with nobody.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Wake up at 4:30am every day  no snoozing, no lying down after the alarm. Up, morning prayer and devotion for 30 minutes, then straight into DevOps study by 5:00am.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
-
+https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-share-7476965871253483520-LQ_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-share-7476965871253483520-LQ_U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A  
+- Blog / Medium : https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-ugcPost-7477016421173084160-qj1l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A 
 
 ---
 
