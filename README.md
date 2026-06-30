@@ -133,7 +133,7 @@ Week 01 → Success Mindset
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_devops-dmi-devopsmicrointernship-activity-7472085243932594176-X_LD) | — |
-| 01 | Success Mindset | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-share-7476965871253483520-LQ_U/) | [Blog](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-ugcPost-7477016421173084160-qj1l/) |
+| 01 | Success Mindset | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-share-7477451740448067584-BwIY/) | [Blog](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-ugcPost-7477016421173084160-qj1l/) |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
