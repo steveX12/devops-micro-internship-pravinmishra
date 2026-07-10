@@ -14,7 +14,7 @@ In this assignment, you will explore Claude Code’s memory system. You will loc
 
 ## Goal
 
-Identify where Claude Code stores memory for this project.
+Discover exactly where Claude Code stores memory for this project.
 
 ### Evidence
 
@@ -28,17 +28,17 @@ Identify where Claude Code stores memory for this project.
 
 ## Goal
 
-Store project-specific rules and configurations into Claude’s memory and verify that they are saved.
+Teach Claude three specific facts about the project and instruct it to save them to the memory file.
 
 ### Evidence
 
-#### Screenshot 2 — Claude confirming memory was saved
+#### Screenshot 2 — Claude confirming the memory was saved
 
 ![Memory Saved Confirmation](/week-02-agentic-ai/screenshots/7-memory-saved-confirmation.png)
 
 ---
 
-#### Screenshot 3 — MEMORY.md file showing saved content
+#### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
 ![Memory File Content](/week-02-agentic-ai/screenshots/7-memory-file-content.png)
 
@@ -52,7 +52,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 ### Evidence
 
-#### Screenshot 4 — Fresh Claude Code session after restart
+#### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
 ![Fresh Session](/week-02-agentic-ai/screenshots/7-fresh-session.png)
 
@@ -62,7 +62,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 ## Goal
 
-Verify that Claude correctly recalls stored memory after a full session reset.
+Run three tests that prove Claude remembers what you told it — without you saying it again in the new session.
 
 ### Evidence
 
@@ -88,6 +88,14 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 
 ---
 
+## Linkedin Post Link
+
+Paste your Linkedin post link here:
+
+`__________________________`
+
+---
+
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
@@ -105,6 +113,7 @@ Paste your forked repository URL here:
 - [ ] Claude recalled hero colors correctly (Screenshot 5)
 - [ ] Claude refused JavaScript request based on memory (Screenshot 6)
 - [ ] All screenshots added and committed to GitHub repo
+- [ ] Linkedin post created.
 
 ---
 

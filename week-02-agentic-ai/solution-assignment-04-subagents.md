@@ -18,7 +18,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 ### Evidence
 
-#### Screenshot 1 — Agents folder structure in VS Code
+#### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
 ![Agents Folder Structure](/week-02-agentic-ai/screenshots/4-agent-folder-structure.png)
 
@@ -55,13 +55,13 @@ If you lock it to a specific model like Haiku, you get weaker code. If you lock 
 
 ### Evidence
 
-#### Screenshot 2 — security-auditor.md frontmatter
+#### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
 ![Security Auditor Frontmatter](/week-02-agentic-ai/screenshots/4-security-audttor-frontmatter.png)
 
 ---
 
-#### Screenshot 3 — cost-optimizer.md frontmatter
+#### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
 ![Cost Optimizer Frontmatter](/week-02-agentic-ai/screenshots/4-cost-optimiser-frontmatter.png)
 
@@ -75,7 +75,7 @@ Trigger the security auditor agent and analyze the generated security report for
 
 ### Evidence
 
-#### Screenshot 4 — Security auditor delegation triggered
+#### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
 ![Security Auditor Delegation](/week-02-agentic-ai/screenshots/4-security-auditor-delegation.png)
 
@@ -95,7 +95,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 ### Evidence
 
-#### Screenshot 6 — Cost optimization report output
+#### Screenshot 6 — The full cost optimization report
 
 ![Cost Optimization Report](/week-02-agentic-ai/screenshots/4-cost-optimization-report.png)
 
@@ -104,8 +104,9 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 # Submission Instructions
 
 - Ensure all agent files are committed in `.claude/agents/`
-- Complete all written answers in your Google Doc submission
+- Complete all written answers in your GitHub Repo
 - Push final changes to your forked GitHub repository
+<<<<<<< HEAD
 - Submit only the Google Doc link as required
 
 ---
@@ -115,6 +116,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 Paste your Google Doc URL here:
 
 `https://docs.google.com/document/d/1FfNIII1M1ClloS9ejhB_IHNGmoUyItJiTJyeZ9HoIg8/edit?usp=sharing`
+=======
+>>>>>>> upstream/main
 
 ---
 
@@ -131,7 +134,7 @@ Paste your forked repository URL here:
 - [ ] `.claude/agents/` folder contains all 3 agent files
 - [ ] Screenshot 2 shows correct `security-auditor.md` configuration
 - [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed in Google Doc
+- [ ] All 3 written answers completed 
 - [ ] Security auditor executed successfully
 - [ ] Cost optimizer executed successfully
 - [ ] Security report is visible with findings
