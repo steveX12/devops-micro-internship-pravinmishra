@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — Agents folder structure in VS Code
 
-Add your screenshot here.
+![Agents Folder Structure](/week-02-agentic-ai/screenshots/4-agent-folder-structure.png)
 
 ---
 
@@ -34,19 +34,22 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+The cost optimizer's job is straightforward scan the infrastructure, check prices, compare storage tiers and report back. It does not need to make complex decisions or deeply analyze anything. It just needs to look and report.
+Haiku is the fastest and cheapest model and it is more than capable of handling that kind of simple scanning work. Sonnet is built for tasks that need careful reasoning and deeper analysis like the security auditor.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor's only job is to look at your files and report what it finds. It has no business changing anything.
+If you give an auditor write access, you are creating a risk the agent could accidentally modify the very files it is supposed to be reviewing. That defeats the purpose of an audit entirely.Keeping the security auditor read only means it can look at everything but cannot touch anything which is exactly the control you want when something is analyzing your infrastructure.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The TF Writer's job is to generate and modify Terraform code and the quality of that code depends directly on the quality of the model doing the work.
+If you lock it to a specific model like Haiku, you get weaker code. If you lock it to Opus, you always pay the highest price even for simple changes. By using inherit, the TF Writer automatically uses whatever model your main session is running. If you are doing complex work and running Opus, the writer runs on Opus too. If you switch to Sonnet, the writer follows. This gives you flexibility you control the quality and cost from your main session without having to update the subagent configuration every time.
 
 ---
 
@@ -54,13 +57,13 @@ Add your answer here...
 
 #### Screenshot 2 — security-auditor.md frontmatter
 
-Add your screenshot here.
+![Security Auditor Frontmatter](/week-02-agentic-ai/screenshots/4-security-audttor-frontmatter.png)
 
 ---
 
 #### Screenshot 3 — cost-optimizer.md frontmatter
 
-Add your screenshot here.
+![Cost Optimizer Frontmatter](/week-02-agentic-ai/screenshots/4-cost-optimiser-frontmatter.png)
 
 ---
 
@@ -74,13 +77,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — Security auditor delegation triggered
 
-Add your screenshot here.
+![Security Auditor Delegation](/week-02-agentic-ai/screenshots/4-security-auditor-delegation.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![Security Audit Report](/week-02-agentic-ai/screenshots/4-security-audit-report.png)
 
 ---
 
@@ -94,7 +97,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — Cost optimization report output
 
-Add your screenshot here.
+![Cost Optimization Report](/week-02-agentic-ai/screenshots/4-cost-optimization-report.png)
 
 ---
 
@@ -111,7 +114,7 @@ Add your screenshot here.
 
 Paste your Google Doc URL here:
 
-`__________________________`
+`https://docs.google.com/document/d/1FfNIII1M1ClloS9ejhB_IHNGmoUyItJiTJyeZ9HoIg8/edit?usp=sharing`
 
 ---
 
@@ -119,7 +122,7 @@ Paste your Google Doc URL here:
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/steveX12/Ultimate-Agentic-DevOps-with-Claude-Code`
 
 ---
 

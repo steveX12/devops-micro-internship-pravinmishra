@@ -20,13 +20,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Claude Code version check
 
-Add your screenshot here.
+![Claude Code Version Check](/week-02-agentic-ai/screenshots/1-Claude-Code-version-check.png)
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated in terminal
 
-Add your screenshot here.
+![Claude Code Authenticated](/week-02-agentic-ai/screenshots/1-Claude-Code-authenticated-in-terminal.png)
 
 ---
 
@@ -40,7 +40,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — Project opened in VS Code
 
-Add your screenshot here.
+![Project Opened in VS Code](/week-02-agentic-ai/screenshots/1-Project-opened-in-VS-Code.png)
 
 ---
 
@@ -54,13 +54,13 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude reading project files and responding
 
-Add your screenshot here.
+![Claude Reading Project Files](/week-02-agentic-ai/screenshots/1-Claude-reading-project-files-and-responding.png)
 
 ---
 
 #### Screenshot 5 — Claude executing command to count CSS lines
 
-Add your screenshot here.
+![Claude Executing Command](/week-02-agentic-ai/screenshots/1-Claude-executing-command-to-count-CSS-lines.png)
 
 ---
 
@@ -76,7 +76,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/steveX12/Ultimate-Agentic-DevOps-with-Claude-Code`
 
 ---
 

@@ -20,7 +20,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — Skills folder structure in VS Code
 
-Add your screenshot here.
+![Skills Folder Structure](/week-02-agentic-ai/screenshots/3-skill-folder-with-content-vscode.png)
 
 ---
 
@@ -34,13 +34,13 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — scaffold-terraform skill folder contents
 
-Add your screenshot here.
+![Skill Folder With Content](/week-02-agentic-ai/screenshots/3-skill-folder-structure.png)
 
 ---
 
 #### Screenshot 3 — tf-plan/SKILL.md showing allowed-tools restrictions
 
-Add your screenshot here.
+![TF Plan Showing Allowed Tools](/week-02-agentic-ai/screenshots/3-tf-plan-showing-allowed-tools.png)
 
 ---
 
@@ -54,13 +54,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude scaffold execution result
 
-Add your screenshot here.
+![Claude Analysis Output](/week-02-agentic-ai/screenshots/3-Claude-analysis-output.png)
 
 ---
 
 #### Screenshot 5 — Generated terraform/ folder with all files
 
-Add your screenshot here.
+![Generated Terraform Folder](/week-02-agentic-ai/screenshots/3-generated-terraform-folder-with-all-files.png)
 
 ---
 
@@ -74,7 +74,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — /tf-plan execution and Claude analysis output
 
-Add your screenshot here.
+![TF Plan Execution](/week-02-agentic-ai/screenshots/3-tf-plan-execution.png)
 
 ---
 
@@ -90,7 +90,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/steveX12/Ultimate-Agentic-DevOps-with-Claude-Code`
 
 ---
 

@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Blog published and visible](/week-02-agentic-ai/screenshots/8-reflection-blog-published.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@stephenchinedu850/devops-micro-intenship-week-2-relection-7e30ecffb8fb`
 
 ---
 
@@ -92,23 +92,39 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![LinkedIn post published](/week-02-agentic-ai/screenshots/8-linkedin-post.png)
 
 ---
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
+𝗪𝗲𝗲𝗸 𝟮 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗠𝗶𝗰𝗿𝗼 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽 𝗶𝘀 𝗱𝗼𝗻𝗲. 𝗔𝗻𝗱 𝗶𝘁 𝘄𝗮𝘀 𝗻𝗼𝘁𝗵𝗶𝗻𝗴 𝗹𝗶𝗸𝗲 𝗜 𝗲𝘅𝗽𝗲𝗰𝘁𝗲𝗱.
 
-```
-Paste your LinkedIn post content here
-```
+I came in thinking this week was going to be about learning new tools. What it actually taught me was how to think differently about AI entirely.
+
+Before this week, I used AI the way most people do type a prompt, get a generic reply, try to reshape it, still not quite get what you need. That is not how Claude Code works.
+
+This week I learned about the Agentic Loop, CLAUDE.md, Skills, Subagents, MCP, Hooks, Permissions and Memory. Each one solves a specific problem. Together they turn an AI tool into a structured, controlled system that actually understands your project.
+
+But the biggest lesson this week had nothing to do with code.
+
+My subscription kept failing. I almost did not make it through Week 2. Then I remembered something from Week 1 ask for help, stay consistent, do not let one obstacle define the outcome. I reached out, got help and completed every single assignment.
+
+That is the real win this week.
+
+Full reflection on Medium 👇
+
+https://lnkd.in/e2FG5S_k
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community: https://lnkd.in/eeBhNuk9
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-agenticai-claudecode-share-7481238708017430528-60sp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A`
 
 ---
 

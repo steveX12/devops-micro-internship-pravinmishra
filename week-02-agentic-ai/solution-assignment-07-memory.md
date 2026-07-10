@@ -20,7 +20,7 @@ Identify where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+![Memory File Location](/week-02-agentic-ai/screenshots/7-memory-file-location.png)
 
 ---
 
@@ -34,13 +34,13 @@ Store project-specific rules and configurations into Claude’s memory and verif
 
 #### Screenshot 2 — Claude confirming memory was saved
 
-Add your screenshot here.
+![Memory Saved Confirmation](/week-02-agentic-ai/screenshots/7-memory-saved-confirmation.png)
 
 ---
 
 #### Screenshot 3 — MEMORY.md file showing saved content
 
-Add your screenshot here.
+![Memory File Content](/week-02-agentic-ai/screenshots/7-memory-file-content.png)
 
 ---
 
@@ -54,7 +54,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — Fresh Claude Code session after restart
 
-Add your screenshot here.
+![Fresh Session](/week-02-agentic-ai/screenshots/7-fresh-session.png)
 
 ---
 
@@ -68,13 +68,14 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+![Memory Recall Colors](/week-02-agentic-ai/screenshots/7-memory-recall-colors.png)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+![Memory Recall No JavaScript](/week-02-agentic-ai/screenshots/7-memory-recall-no-javascript.png)
+
 
 ---
 
@@ -91,7 +92,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/steveX12/Ultimate-Agentic-DevOps-with-Claude-Code`
 
 ---
 

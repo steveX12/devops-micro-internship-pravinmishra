@@ -73,8 +73,8 @@ Week 00 → Internet & Networking Basics
 Week 01 → Success Mindset
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+ Week 02 → Agentic AI with Claude Code 
+ [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -135,7 +135,7 @@ Week 01 → Success Mindset
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_devops-dmi-devopsmicrointernship-activity-7472085243932594176-X_LD) | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-share-7477451740448067584-BwIY/) | [Blog](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-ugcPost-7477016421173084160-qj1l/) |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-agenticai-claudecode-share-7481238708017430528-60sp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A) | [Blog](https://medium.com/@stephenchinedu850/devops-micro-intenship-week-2-relection-7e30ecffb8fb) |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |

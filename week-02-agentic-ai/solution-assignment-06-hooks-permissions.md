@@ -20,7 +20,7 @@ Create a team-level `settings.json` file with allow and deny rules for safe comm
 
 #### Screenshot 1 — settings.json permissions configuration
 
-Add your screenshot here.
+![Settings JSON Permissions](/week-02-agentic-ai/screenshots/6-settings-json-permissions.png)
 
 ---
 
@@ -34,7 +34,7 @@ Add a hook that intercepts user prompts before Claude starts execution and block
 
 #### Screenshot 2 — settings.json showing UserPromptSubmit hook
 
-Add your screenshot here.
+![Add the UserPromptSubmit Hook](/week-02-agentic-ai/screenshots/6-userpromptsubmit-hook.png)
 
 ---
 
@@ -48,7 +48,7 @@ Extend `settings.json` with a PreToolUse hook that blocks dangerous Bash command
 
 #### Screenshot 3 — full settings.json with permissions and hooks
 
-Add your screenshot here.
+![PreToolUse Hook](/week-02-agentic-ai/screenshots/6-full-settings-json.png)
 
 ---
 
@@ -62,7 +62,7 @@ Verify that destructive prompts are blocked before Claude begins execution.
 
 #### Screenshot 4 — blocked prompt due to UserPromptSubmit hook
 
-Add your screenshot here.
+![Test the UserPromptSubmit Hook](/week-02-agentic-ai/screenshots/6-userpromptsubmit-hook-test.png)
 
 ---
 
@@ -76,7 +76,7 @@ Verify that dangerous commands are intercepted before execution by the PreToolUs
 
 #### Screenshot 5 — PreToolUse hook blocking terraform destroy
 
-Add your screenshot here.
+![PreToolUse hook blocking terraform destroy](/week-02-agentic-ai/screenshots/6-pretooluse-hook-test.png)
 
 ---
 
@@ -92,7 +92,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/steveX12/Ultimate-Agentic-DevOps-with-Claude-Code`
 
 ---
 

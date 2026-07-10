@@ -113,7 +113,7 @@ What is this project and how should I deploy it?
 3. Update **Architecture** to include this line:
    > "Pure HTML5 and CSS3. No JavaScript. No build step. No framework."
 4. Add a **Commands** section listing: `terraform init`, `terraform plan`, `terraform apply`
-5. Add a **Conventions** section with these three rules:
+5. Add a **Pure HTML5 and CSS3. No JavaScript. No build step. No framework.** section with these three rules:
    - All infrastructure changes go through Terraform — never modify AWS resources manually
    - No JavaScript in this project
    - CSS uses mobile-first approach with breakpoints at 900px, 768px, and 600px
