@@ -20,7 +20,8 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+![Nginx Status](/week-03-linux-and-bash-for-devops/screenshots/4-nginx-status.png)
+
 
 ---
 
@@ -34,7 +35,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+![LS Extracted](/week-03-linux-and-bash-for-devops/screenshots/4-ls-extracted.png)
 
 ---
 
@@ -48,7 +49,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+![Nano Footer](/week-03-linux-and-bash-for-devops/screenshots/4-nano-footer.png)
 
 ---
 
@@ -62,13 +63,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+![Nginx T](/week-03-linux-and-bash-for-devops/screenshots/4-nginx-t.png)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+![LS Var WWW](/week-03-linux-and-bash-for-devops/screenshots/4-ls-var-www.png)
 
 ---
 
@@ -82,13 +83,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+![Curl Ifconfig](/week-03-linux-and-bash-for-devops/screenshots/4-curl-ifconfig.png)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+![Browser Live](/week-03-linux-and-bash-for-devops/screenshots/4-browser-live.png)
 
 ---
 
@@ -102,13 +103,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+![Is Enabled](/week-03-linux-and-bash-for-devops/screenshots/4-is-enabled.png)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+![Curl Localhost](/week-03-linux-and-bash-for-devops/screenshots/4-curl-localhost.png)
 
 ---
 
@@ -120,13 +121,13 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-devops-agenticai-activity-7483597317162520576-DxyL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A`
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+![Linkedin Post](/week-03-linux-and-bash-for-devops/screenshots/4-Linkedin-Post.png)
 
 ---
 

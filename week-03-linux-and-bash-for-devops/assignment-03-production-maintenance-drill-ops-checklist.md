@@ -377,7 +377,7 @@ Cloud resources like EC2 instances typically cost money for every hour they run,
 
 Paste your LinkedIn post URL here:
 
-``
+`https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-devops-agenticai-activity-7483432653619171328-FHqc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A`
 
 ---
 
