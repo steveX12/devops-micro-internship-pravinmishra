@@ -68,7 +68,7 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+![Claude Response Rejecting React Change](/week-02-agentic-ai/screenshots/2-Claude-Response-rejecting-react.png)
 
 ---
 
@@ -82,7 +82,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-![Claude Response Rejecting React Change](/week-02-agentic-ai/screenshots/2-Claude-Response-rejecting-react.png)
+![CLAUDE.md on GitHub](/week-02-agentic-ai/screenshots/2-claudemd-github.png)
 
 ---
 
