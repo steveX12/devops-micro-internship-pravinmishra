@@ -421,7 +421,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-![LinkedIn post screenshot](week-03-linux-and-bash-for-devops/screenshots/5-Linkedin-Post.png)
+![LinkedIn post screenshoot](/week-03-linux-and-bash-for-devops/screenshots/5-Linkedin-Post.png)
 
 ---
 
