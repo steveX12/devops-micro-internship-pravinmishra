@@ -137,7 +137,7 @@ Week 01 → Success Mindset
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-agenticai-claudecode-share-7481238708017430528-60sp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A) | [Blog](https://medium.com/@stephenchinedu850/devops-micro-intenship-week-2-relection-7e30ecffb8fb) |
 | 03 | Linux for DevOps | ✅ Completed | ✅ Completed | — | — |
 | 04 | Bash Scripting | ✅ Completed | ✅ Completed | — | — |
-| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | Git & GitHub | 🔄 In Progress | 🔄 In Progress | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
