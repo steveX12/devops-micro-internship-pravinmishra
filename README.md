@@ -81,8 +81,8 @@ Week 01 → Success Mindset
  Week 04 → Bash Scripting
 [![Week 04 – Bash](./badges/week-04.svg)](./week-04-bash-scripting/) 
 
-<!-- Week 05 → Git & GitHub -->
-<!-- [![Week 05 – Git](./badges/week-05.svg)](./week-05-github/) -->
+Week 05 → Git & GitHub 
+[![Week 05 – Git](./badges/week-05.svg)](./week-05-github/) 
 
 <!-- Week 06 → DevOps Lifecycle & Agile -->
 <!-- [![Week 06 – Agile](./badges/week-06.svg)](./week-06-devops-lifecycle/) -->
@@ -132,12 +132,12 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_devops-dmi-devopsmicrointernship-activity-7472085243932594176-X_LD) | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_devops-dmi-devopsmicrointernship-activity-7472085243932594176-X_LD) | [Blog](https://www.linkedin.com/posts/stephen-chinedu-okam_devops-dmi-devopsmicrointernship-activity-7472085243932594176-X_LD)|
 | 01 | Success Mindset | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-share-7477451740448067584-BwIY/) | [Blog](https://www.linkedin.com/posts/stephen-chinedu-okam_dmi-dmicohort3-devops-ugcPost-7477016421173084160-qj1l/) |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-agenticai-claudecode-share-7481238708017430528-60sp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A) | [Blog](https://medium.com/@stephenchinedu850/devops-micro-intenship-week-2-relection-7e30ecffb8fb) |
-| 03 | Linux for DevOps | ✅ Completed | ✅ Completed | — | — |
-| 04 | Bash Scripting | ✅ Completed | ✅ Completed | — | — |
-| 05 | Git & GitHub | 🔄 In Progress | 🔄 In Progress | — | — |
+| 03 | Linux for DevOps | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-linux-bash-share-7485913614361505792-o2I7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A) | [Blog](https://medium.com/@stephenchinedu850/what-six-days-of-linux-and-bash-actually-taught-me-f032531a9672?sharedUserId=stephenchinedu850) |
+| 04 | Bash Scripting | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-linux-bash-share-7485913614361505792-o2I7/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A) | [Blog](https://medium.com/@stephenchinedu850/what-six-days-of-linux-and-bash-actually-taught-me-f032531a9672?sharedUserId=stephenchinedu850) |
+| 05 | Git & GitHub | ✅ Completed | ✅ Completed | [Post](https://www.linkedin.com/posts/stephen-chinedu-okam_dmibypravinmishra-git-github-share-7486139808424210432-7E6T/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmCHGwBc_NVFnHVBkHhow_NJVZpnW-l1-A) | [Blog](https://medium.com/@stephenchinedu850/why-every-devops-engineer-needs-to-actually-understand-git-not-just-use-it-0e9fd011b0d7) |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
